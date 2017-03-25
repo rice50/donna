@@ -1,0 +1,16 @@
+#include <iostream>
+#include <fstream>
+#include <string>
+using namespace std; Count
+int main () {
+int x
+string msg "this is a text file";
+string spc = " "
+string msg2;
+ofstrem count_space ("count _space txt")
+while (getline(count_space ));
+{
+cout << msg2 << endl;
+cin << get ();
+}
+}
